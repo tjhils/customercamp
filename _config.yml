@@ -15,9 +15,9 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+title:       "Customer Camp"
+keywords:    "Customer, support, success, course"
+description: "taking care of customers in tents"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
@@ -29,8 +29,8 @@ colors:
   black:     '#111111'
   white:     '#f8f8f8'
   blue:      '#49a7e9'
-  green:     '#9bcf2f'
+  green:     '#45543A'
   purple:    '#c869bf'
-  orange:    '#fab125'
+  orange:    '#c73b0b'
   turquoise: '#0fbfcf'
   
