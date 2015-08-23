@@ -1,36 +1,9 @@
----
+# Site settings
+title: Customer Camp
+tag_text: customer camp
+description: its in tents
 
-port: 4000
-host: 0.0.0.0
-safe: false
-
-
-### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
-timezone: null
-lsi: false
+# Build settings
 markdown: kramdown
-highlighter: pygments
 
-
-### content configuration ###
-title:       "Customer Camp"
-keywords:    "Customer, support, success, course"
-description: "taking care of customers in tents"
-source_link: "https://github.com/t413/SinglePaged"
-favicon:     #put a path like: "img/favicon.ico"
-touch_icon:  #put a path like: "img/apple-touch-icon.png"
-google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
-
-
-### template colors, used site-wide via css ###
-colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#45543A'
-  purple:    '#c869bf'
-  orange:    '#c73b0b'
-  turquoise: '#0fbfcf'
-  
+exclude: ["README.md"]
